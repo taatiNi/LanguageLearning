@@ -1,0 +1,7 @@
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\bin\Debug\netcoreapp3.1\Language.Infrastructure.deps.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\bin\Debug\netcoreapp3.1\Language.Infrastructure.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\bin\Debug\netcoreapp3.1\Language.Infrastructure.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\obj\Debug\netcoreapp3.1\Language.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\obj\Debug\netcoreapp3.1\Language.Infrastructure.AssemblyInfo.cs
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\obj\Debug\netcoreapp3.1\Language.Infrastructure.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Infrastructure\obj\Debug\netcoreapp3.1\Language.Infrastructure.pdb

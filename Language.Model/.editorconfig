@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# xUnit2015: Do not use typeof expression to check the exception type
+dotnet_diagnostic.xUnit2015.severity = silent

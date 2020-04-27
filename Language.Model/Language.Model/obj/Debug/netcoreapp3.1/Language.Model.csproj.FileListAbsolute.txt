@@ -1,0 +1,11 @@
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\bin\Debug\netcoreapp3.1\Language.Model.deps.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\bin\Debug\netcoreapp3.1\Language.Model.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\bin\Debug\netcoreapp3.1\Language.Model.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\obj\Debug\netcoreapp3.1\Language.Model.AssemblyInfoInputs.cache
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\obj\Debug\netcoreapp3.1\Language.Model.AssemblyInfo.cs
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\obj\Debug\netcoreapp3.1\Language.Model.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\obj\Debug\netcoreapp3.1\Language.Model.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\bin\Debug\netcoreapp3.1\Language.Infrastructure.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\bin\Debug\netcoreapp3.1\Language.Infrastructure.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\obj\Debug\netcoreapp3.1\Language.Model.csprojAssemblyReference.cache
+C:\Users\Niloofar\source\repos\Language.Model\Language.Model\obj\Debug\netcoreapp3.1\Language.Model.csproj.CopyComplete

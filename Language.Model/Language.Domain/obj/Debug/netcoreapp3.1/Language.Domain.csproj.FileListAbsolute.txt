@@ -1,0 +1,10 @@
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\bin\Debug\netcoreapp3.1\Language.Domain.deps.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\bin\Debug\netcoreapp3.1\Language.Domain.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\obj\Debug\netcoreapp3.1\Language.Domain.AssemblyInfoInputs.cache
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\obj\Debug\netcoreapp3.1\Language.Domain.AssemblyInfo.cs
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\bin\Debug\netcoreapp3.1\Language.Domain.runtimeconfig.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\bin\Debug\netcoreapp3.1\Language.Domain.runtimeconfig.dev.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\bin\Debug\netcoreapp3.1\Language.Domain.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\obj\Debug\netcoreapp3.1\Language.Domain.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\obj\Debug\netcoreapp3.1\Language.Domain.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Domain\obj\Debug\netcoreapp3.1\Language.Domain.csprojAssemblyReference.cache

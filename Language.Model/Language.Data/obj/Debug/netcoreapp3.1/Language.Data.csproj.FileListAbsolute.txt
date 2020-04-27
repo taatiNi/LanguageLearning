@@ -1,0 +1,13 @@
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Data.deps.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Data.runtimeconfig.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Data.runtimeconfig.dev.json
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Data.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\obj\Debug\netcoreapp3.1\Language.Data.AssemblyInfoInputs.cache
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\obj\Debug\netcoreapp3.1\Language.Data.AssemblyInfo.cs
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\obj\Debug\netcoreapp3.1\Language.Data.csprojAssemblyReference.cache
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Data.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Domain.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\bin\Debug\netcoreapp3.1\Language.Domain.pdb
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\obj\Debug\netcoreapp3.1\Language.Data.csproj.CopyComplete
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\obj\Debug\netcoreapp3.1\Language.Data.dll
+C:\Users\Niloofar\source\repos\Language.Model\Language.Data\obj\Debug\netcoreapp3.1\Language.Data.pdb

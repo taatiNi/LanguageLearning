@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Language.Model/1.0.0": {
+        "dependencies": {
+          "Language.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Language.Model.dll": {}
+        }
+      },
+      "Language.Infrastructure/1.0.0": {
+        "runtime": {
+          "Language.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Language.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Language.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
